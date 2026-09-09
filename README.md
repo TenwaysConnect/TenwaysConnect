@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tenways Connect
 
-<!--
-**TenwaysConnect/TenwaysConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**An independent Android app for viewing bike data and managing settings on supported Tenways e-bikes.**
 
-Here are some ideas to get you started:
+Tenways Connect connects directly to your bike over Bluetooth. It was developed and tested with the **CGO600 Pro New Edition with colour display**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Support development ☕](https://ko-fi.com/tenwaysconnect)
+
+## Features
+
+- **Bike information:** View battery percentage, total distance, serial number and the reported speed limit.
+- **Bike controls:** Switch the lights on or off and adjust the assistance speed limit.
+- **Live telemetry:** View riding information reported by your bike.
+- **Troubleshooting:** Inspect Bluetooth communication and export diagnostic logs. Previously received data and logs remain accessible after disconnection.
+
+## Compatibility
+
+Currently tested with the **Tenways CGO600 Pro New Edition with colour display**. Compatibility with other models and firmware versions has not been confirmed. Available information and controls may vary by bike.
