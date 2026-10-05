@@ -16,3 +16,5 @@ Tenways Connect connects directly to your bike over Bluetooth. It was developed 
 ## Compatibility
 
 Currently tested with the **Tenways CGO600 Pro New Edition with colour display**. Compatibility with other models and firmware versions has not been confirmed. Available information and controls may vary by bike.
+
+So far compatibility with the latest firmware has been confirmed. Older firmwares are **not** compatible.
